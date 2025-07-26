@@ -94,7 +94,6 @@ const Speakers = () => {
   <h2 className="text-xl font-bold mb-4 text-center text-[#0C223F]">Recent Speakers</h2>
   <div className="grid grid-cols-2 gap-4">
     {speakers
-      .slice(0,4)
       .map((speaker, index) => (
         <div
           key={speaker.id}
