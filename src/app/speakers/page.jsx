@@ -113,13 +113,12 @@ const Speakers = () => {
         >
           <SpeakerCard speaker={speakers[currentIndex]} bgIndex={bgIndex} />
         </div>
-        {/* Mobile Recent Speakers - Show only 4 */}
         <div className="w-full mt-8 px-4 laptop:hidden">
           <h2 className="text-xl font-bold mb-4 text-center text-[#0C223F]">
             Recent Speakers
           </h2>
           <div className="grid grid-cols-2 gap-4">
-            {speakers.slice(0, 4).map((speaker, index) => (
+            {speakers.map((speaker, index) => (
               <div
                 key={speaker.id}
                 className="cursor-pointer bg-white rounded-xl shadow-md hover:shadow-lg transition duration-300 overflow-hidden"
