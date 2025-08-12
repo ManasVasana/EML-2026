@@ -3,9 +3,10 @@ import InstaLogo from "../../public/InstaLogo";
 function InstagramSection() {      
 
     const posts = [
+        "https://www.instagram.com/p/DM5fgVlTCHM/embed",
         "https://www.instagram.com/p/DGk2cG6TzUs/embed",
         "https://www.instagram.com/p/C_nte5AIXVk/embed",
-        "https://www.instagram.com/reel/DK65ym_op9Z/embed",
+        // "https://www.instagram.com/reel/DK65ym_op9Z/embed",
     ];
 
   return (

@@ -9,28 +9,32 @@ const SpeakersSection = () => {
   const recent_talks_data = [
     {
       id: 1,
-      image: "/images/home/recent-talks/img1.png",
-      title: "Dr. HC Verma",
-      description: "Indian physicist and author"
+      image: "/images/home/recent-talks/im1.jpg"
     },
     {
       id: 2,
       image: "/images/home/recent-talks/img2.png",
-      title: "Dr. Kiran Seth",
-      description: "Founder, SPICMACAY"
+      title: "Dr. HC Verma",
+      description: "Indian physicist and author"
     },
     {
       id: 3,
       image: "/images/home/recent-talks/img3.png",
-      title: "Prof. EV Swaminathan",
-      description: "Mental Health Advocate"
+      title: "Dr. Kiran Seth",
+      description: "Founder, SPICMACAY"
     },
     {
       id: 4,
       image: "/images/home/recent-talks/img4.png",
-      title: "Lt. Gen. Kanwal Jeet Singh Dhillon",
-      description: "Retd. General Officer, Indian Army"
+      title: "Prof. EV Swaminathan",
+      description: "Mental Health Advocate"
     },
+    // {
+    //   id: 4,
+    //   image: "/images/home/recent-talks/img4.png",
+    //   title: "Lt. Gen. Kanwal Jeet Singh Dhillon",
+    //   description: "Retd. General Officer, Indian Army"
+    // },
   ];
 
   const past_speaker_data = [
