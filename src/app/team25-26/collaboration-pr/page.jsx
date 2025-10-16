@@ -51,12 +51,12 @@ export default function Collaborationpr() {
 
               <div className="flex flex-col justify-start items-center w-full gap-10 mt-[70px] ml-[350px]">
                 {/* Head Section */}
-                <Head
+              {/*  <Head
                   imageSrc="/images/Aashi Ranjan.webp"
                   title="Collaboration and PR Head"
                   name="Aashi Ranjan"
                   bgColor="bg-[#1D4F7C]"
-                />
+                /> */}
 
                 {/* Coordinators Section */}
 <div className="w-full px-4">

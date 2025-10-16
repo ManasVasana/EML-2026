@@ -1,6 +1,14 @@
-[
-  {
+[ {
     "id": 1,
+    "name": "Acharya prasant",
+    "title": "Indian spiritual leader, philosopher, author and poet",
+    "photo": "../images/speakers/AcharyaPrasant.webp",
+    "description": "Acharya Prashant Tripathi, known as Acharya Prashant is an Indian spiritual leader, philosopher, author and poet.[1] He conducts live Gita sessions both offline and online, where he teaches seventeen forms of Gita and sixty forms of Upanishads with eastern and western philosophy and religion.[2][3] He is the founder of a non-profit organization named PrashantAdvait Foundation,[4] and is an Animal Rights Activist",
+    "moreDetails": "https://acharyaprashant.org"
+
+  },
+  {
+    "id": 2,
     "name": "Achyut Ramchandra Palav",
     "title": "Indian Calligrapher and Educator",
     "photo": "../images/speakers/AchyutRamchandraPalav.jpg",
@@ -9,7 +17,7 @@
 
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Dr. H. C. Verma",
     "title": "Indian Physicist, Author, and Professor Emeritus at IIT Kanpur",
     "photo": "../images/speakers/HCVerma.png",
@@ -17,7 +25,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/H._C._Verma"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Dr. Kiran Seth",
     "title": "Founder, SPICMACAY",
     "photo": "../images/speakers/KiranSeth.png",
@@ -25,7 +33,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Kiran_Seth"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Prof. E. V. Swaminathan",
     "title": "Mental Health Advocate",
     "photo": "../images/speakers/EVSwaminathan.png",
@@ -33,7 +41,7 @@
     "moreDetails": "https://sttp.spit.ac.in/files/2020/10/Swami-2020-New.pdf"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Lft. Gen. Kanwal Jeet Singh Dhillon",
     "title": "Retd. General Officer, Indian Army",
     "photo": "../images/speakers/Dhillon.png",
@@ -41,7 +49,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Kanwal_Jeet_Singh_Dhillon"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "E. Damodar",
     "title": "Retd. Inspector General of Police",
     "photo": "../images/speakers/EDamodar.png",
@@ -49,7 +57,7 @@
     "moreDetails": "https://www.linkedin.com/in/e-damodar-ips-4aa35731?originalSubdomain=in"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Shivanand Kanavi",
     "title": "Former VP,TCS",
     "photo": "../images/speakers/ShivanandKanavi.png",
@@ -57,7 +65,7 @@
     "moreDetails": "https://www.linkedin.com/in/shivanand-kanavi-33036127?originalSubdomain=in"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Chennupati Jagdish",
     "title": "President, Australian Academy of Science",
     "photo": "../images/speakers/CJagdish.png",
@@ -65,7 +73,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Chennupati_Jagadish"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Ajai Chowdhry",
     "title": "Co-founder of HCL & Padma Bhushan Awardee",
     "photo": "../images/speakers/AjaiChowdhry.jpg",
@@ -73,7 +81,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Ajai_Chowdhry"
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Byrana Nagappa Suresh",
     "title": "ISRO Scientist, Padma Shri & Padma Bhushan Awardee",
     "photo": "../images/speakers/BNSuresh.jpg",
@@ -81,7 +89,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/B._N._Suresh"
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "Dr. Richard Stallman",
     "title": "Founder, Free Software",
     "photo": "../images/speakers/RichardStallman.jpg",
@@ -89,7 +97,7 @@
     "moreDetails": "http://en.wikipedia.org/wiki/Richard_Stallman"
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Dr. Viswanathan Mohan",
     "title": "Indian Diabetologist & Padma Shri Awardee",
     "photo": "../images/speakers/ViswanathanMohan.jpg",
@@ -97,7 +105,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/V._Mohan"
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "Dr. Pulickel Ajayan",
     "title": "Professor in Engineering at Rice University, Houston",
     "photo": "../images/speakers/PulickelAjayan.jpg",
@@ -105,7 +113,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Pulickel_Ajayan"
   },
   {
-    "id": 14,
+    "id": 15,
     "name": "Dr. Undurti Narasimha Das",
     "title": "CEO, UND Life Science",
     "photo": "../images/speakers/UndurtiDas.jpg",
@@ -113,7 +121,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Undurti_Narasimha_Das"
   },
   {
-    "id": 15,
+    "id": 16,
     "name": "Dr. Rohini Godbole",
     "title": "Phycist at CERN & Padma Shri Awardee",
     "photo": "../images/speakers/RohiniGodbole.jpeg",
@@ -121,7 +129,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Rohini_Godbole"
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Padmanabhan Balaram",
     "title": "Former Director, IISC Bangalore ",
     "photo": "../images/speakers/PadmanabhanBalaram.jpg",
@@ -129,7 +137,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Padmanabhan_Balaram"
   },
   {
-    "id": 17,
+    "id": 18,
     "name": "Dr. Y. S. Rajan",
     "title": "Scientist & Honorary Distinguished Professor at ISRO",
     "photo": "../images/speakers/YSRajan.jpg",
@@ -137,7 +145,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Y._S._Rajan"
   },
   {
-    "id": 18,
+    "id": 19,
     "name": "Lft. Gen. Dr. Madhuri Kanitkar",
     "title": "Retd. Lieutenant General",
     "photo": "../images/speakers/MadhuriKanitkar.jpg",
@@ -145,7 +153,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Madhuri_Kanitkar"
   },
   {
-    "id": 19,
+    "id": 20,
     "name": "Dr. Gagandeep Kang",
     "title": "Godmother of Indian Vaccine",
     "photo": "../images/speakers/GagandeepKang.jpg",
@@ -153,7 +161,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Gagandeep_Kang"
   },
   {
-    "id": 20,
+    "id": 21,
     "name": "Neelakantha Bhanu Prakash",
     "title": "World's Fastest Human Calculator",
     "photo": "../images/speakers/NBhanuPrakash.jpg",
@@ -161,7 +169,7 @@
     "moreDetails": "https://en.m.wikipedia.org/wiki/Neelakantha_Bhanu_Prakash"
   },
   {
-    "id": 21,
+    "id": 22,
     "name": "Dr.Tejaswini Manogna",
     "title": "Miss India Earth (2019)",
     "photo": "../images/speakers/TejaswiniManogna.jpg",
@@ -169,7 +177,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Tejaswini_Manogna"
   },
   {
-    "id": 22,
+    "id": 23,
     "name": "Pullela Gopichand",
     "title": "Chief National Coach, Indian Badminton Team",
     "photo": "../images/speakers/PullelaGopichand.jpg",
@@ -177,7 +185,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Pullela_Gopichand"
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "S. P. Balasubrahmanyam",
     "title": "Distinguished Singer, Actor, Music Director & Film Producer",
     "photo": "../images/speakers/SPBalasubrahmanyam.jpg",
@@ -185,7 +193,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/S._P._Balasubrahmanyam"
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "Michael Kasprowicz",
     "title": "Australian Test Cricketer",
     "photo": "../images/speakers/MichaelKasprowicz.jpg",
@@ -193,7 +201,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Michael_Kasprowicz"
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "DR. BV Pattabhiram",
     "title": "Renowned Clinical Psychologist",
     "photo": "../images/speakers/BVPattabhiram.jpg",
@@ -201,7 +209,7 @@
     "moreDetails": "http://www.pattabhiram.com/about-us.html"
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "K.K.Senthil Kumar",
     "title": "Cinematographer",
     "photo": "../images/speakers/SenthilKumar.jpg",
@@ -209,7 +217,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/K._K._Senthil_Kumar"
   },
   {
-    "id": 27,
+    "id": 28,
     "name": "R.K. Paliwal",
     "title": "Hindi Playwright and Author",
     "photo": "../images/speakers/Paliwal.jpg",
@@ -217,7 +225,7 @@
     "moreDetails": "https://www.facebook.com/rkpaliwalgandhian/"
   },
   {
-    "id": 28,
+    "id": 29,
     "name": "Dr. Y. V. Reddy",
     "title": "Economist and Retd. IAS Officer",
     "photo": "../images/speakers/YVReddy.jpg",
@@ -225,7 +233,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Y._V._Reddy"
   },
   {
-    "id": 29,
+    "id": 30,
     "name": "Amala Akkineni",
     "title": "Actress and Activist",
     "photo": "../images/speakers/AmalaAkkineni.jpg",
@@ -233,7 +241,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Amala_Akkineni"
   },
   {
-    "id": 30,
+    "id": 31,
     "name": "Ananda Shankar Jayant",
     "title": "Classical Dancer, Choreographer, and Bureaucrat",
     "photo": "../images/speakers/AnandaShankarJayant.jpg",
@@ -241,7 +249,7 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Ananda_Shankar_Jayant"
   },
   {
-    "id": 31,
+    "id": 32,
     "name": "Ira Trivedi",
     "title": "Author, Columnist, and Yoga Teacher",
     "photo": "../images/speakers/IraTrivedi.jpg",
@@ -249,11 +257,12 @@
     "moreDetails": "https://en.wikipedia.org/wiki/Ira_Trivedi"
   },
   {
-    "id": 32,
+    "id": 33,
     "name": "G Chandana Deepti",
     "title": "IPS officer, Superintendent of Police",
     "photo": "../images/speakers/ChandanaDeepti.jpg",
     "description": "Ms G Chandana Deepti is an alumnus of IIT Delhi with a bachelors degree in Computer Science. She joined IPS through UPSC Civil Services Examination in the year 2012. In an interaction session with students, she shared her experiences as a police officer in various capacities, career transformation from engineering to civil services, day-to-day responsibilities and challenges in the current role.",
     "moreDetails": "https://www.linkedin.com/in/chandanadeeptiips/?originalSubdomain=in"
   }
+  
 ]

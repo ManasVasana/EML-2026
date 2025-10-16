@@ -68,12 +68,12 @@ export default function WebDevelopment() {
 
               <div className="flex flex-col justify-start items-center w-full gap-10 mt-[70px] ml-[350px]">
                 {/* Head Section */}
-                <Head
+                {/*<Head
                   imageSrc="/images/Manas - Vasana Manas.webp"
                   title="Web development Head"
                   name="Vasana Manas"
                   bgColor="bg-[#1D4F7C]"
-                />
+                />*/}
                 {/* Coordinators Section */}
                 <div className="w-full px-4">
                   <div className="flex flex-wrap justify-center gap-10">

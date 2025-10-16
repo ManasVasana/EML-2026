@@ -29,11 +29,7 @@ const coordinators = [
     title: "Coordinator",
     name: "Divyaanjali",
   },
-  {
-    imageSrc: "/images/Srijan Sharma.jpg",
-    title: "Coordinator",
-    name: "Srijan Sharma",
-  },
+  
 ];
 
 export default function Design() {

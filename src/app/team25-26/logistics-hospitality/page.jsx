@@ -34,11 +34,7 @@ const coordinators = [
     title: "Coordinator",
     name: "Md Sameer",
   },
-  {
-    imageSrc: "/images/Geedi Harsha Vardhan.webp",
-    title: "Coordinator",
-    name: "Geedi Harsha Vardhan",
-  },
+  
   {
     imageSrc: "/images/Ambati Siva Gouri Saranya.webp",
     title: "Coordinator",
@@ -88,7 +84,7 @@ export default function LogisticsAndHospitality() {
               <div className="flex flex-col justify-start items-center w-full gap-12 mt-[70px] ml-[350px]">
                 {/* Head Section */}
                 <div className="flex flex-row gap-6 items-center justify-center flex-wrap">
-                  <Head
+                 {/* <Head
                     imageSrc="/images/Akkala Sai Nihal.webp"
                     title="Logistics &Hospi Head"
                     name="Akkala Sai Nihal"
@@ -100,8 +96,8 @@ export default function LogisticsAndHospitality() {
                     title="Logistics &Hospi Head"
                     name="Kodadala Jagadeesh"
                     bgColor="bg-[#1D4F7C]"
-                  />
-                </div>
+                  /> */}
+                </div> 
 
                 {/* Coordinators Section */}
                 <div className="w-full px-4">
