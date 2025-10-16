@@ -29,12 +29,12 @@ const SpeakersSection = () => {
       title: "Prof. EV Swaminathan",
       description: "Mental Health Advocate"
     },
-    // {
-    //   id: 4,
-    //   image: "/images/home/recent-talks/img4.png",
-    //   title: "Lt. Gen. Kanwal Jeet Singh Dhillon",
-    //   description: "Retd. General Officer, Indian Army"
-    // },
+    {
+     id: 5,
+      image: "/images/home/recent-talks/img5.jpg",
+      title: "Acharya Prashant",
+      description: "Retd. General Officer, Indian Army"
+     },
   ];
 
   const past_speaker_data = [

@@ -1,9 +1,9 @@
 [ {
     "id": 1,
-    "name": "Acharya prasant",
+    "name": "Acharya prashant",
     "title": "Indian spiritual leader, philosopher, author and poet",
-    "photo": "../images/speakers/AcharyaPrasant.webp",
-    "description": "Acharya Prashant Tripathi, known as Acharya Prashant is an Indian spiritual leader, philosopher, author and poet.[1] He conducts live Gita sessions both offline and online, where he teaches seventeen forms of Gita and sixty forms of Upanishads with eastern and western philosophy and religion.[2][3] He is the founder of a non-profit organization named PrashantAdvait Foundation,[4] and is an Animal Rights Activist",
+    "photo": "../images/speakers/AcharyaPrashant.webp",
+    "description": "Prashant Tripathi, known as Acharya Prashant is an Indian spiritual leader, philosopher, author and poet.[1] He conducts live Gita sessions both offline and online, where he teaches seventeen forms of Gita and sixty forms of Upanishads with eastern and western philosophy and religion.[2][3] He is the founder of a non-profit organization named PrashantAdvait Foundation,[4] and is an Animal Rights Activist",
     "moreDetails": "https://acharyaprashant.org"
 
   },
