@@ -36,7 +36,7 @@ export default function Faculty() {
               <div className="md:w-1/3">
                 <Menu />
               </div>
-              <div className="md:w-1/3 flex justify-center items-start mt-[70px] md:mt-[200px] md:ml-[-50px] gap-4">
+              <div className="md:w-2/3 flex justify-center items-start mt-[70px] md:mt-[200px] md:ml-[-50px] gap-4">
                 <Head
                   imageSrc="/images/Faculty_Jyothi_Vedurada.webp"
                   title="FIC Student Activities"
